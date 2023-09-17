@@ -4,7 +4,7 @@ import pyttsx3
 import os
 import json
 
-key = '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'
+key = 'key here'
 
 openai.api_key = key
 
