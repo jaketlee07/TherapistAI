@@ -3,7 +3,7 @@ import React from 'react'
 function Nav() {
     return (
         
-        <div className="flex flex-row justify-between items-center w-full h-16 py-7">
+        <div className="flex flex-row justify-between items-center w-full h-16 py-10">
             <nav className="p-5">
                 <div className="flex items-center">
                     <div className="text-sage text-xl font-bold">TherapyAI</div>
